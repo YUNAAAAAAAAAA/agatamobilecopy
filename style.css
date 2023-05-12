@@ -99,7 +99,6 @@ main > div:nth-child(4){
     background-color: rgb( 0, 29 , 67 );
     margin: 0 auto;
     align-items: center;
-    height: 515px;
     padding: 19px 20px 40px;
 }
 
@@ -137,7 +136,6 @@ main > div:nth-child(4) > p:nth-child(2){
 /*-------------------- main 4-----------------*/
 main > div:nth-child(5){
     background-color: #F0F0F0;
-    height: 623px;
     padding: 40px 20px;
     margin: 0 0 33px; 
 }
